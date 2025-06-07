@@ -4,14 +4,6 @@
     <!-- <img src="./media/kubernetes_cluster.gif" width='600' /> -->
 </div>
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=3rDMQLE0DKA">
-    <img src="media/yt_cover.png" alt="Deploy to Kubernetes with Gimlet" style="width:100%;">
-    <p>Click here to watch the video 🎬</p>
-  </a>
-</div>
-
-
 #### Table of contents
 * [Our goal 🎯](#our-goal)
 * [How to run the API locally? 🏃](#how-to-run-the-api-locally)
@@ -88,18 +80,3 @@ These are the steps:
 3. Build a dashboard with Kibana
 
 <img src="./media/kibana.gif" width='600' />
-
-## See it in action
-
-[👉🏽 Click here to try the API](https://paulescu-taxi-data-api-python-ayolbhnl.gimlet.app/trips?from_ms=1674561817000&n_results=100)
-
-
-## Wanna learn more real-world ML?
-
-Join more than 19k builders to the [**Real-World ML Newsletter**](https://www.realworldml.net/subscribe). Every Saturday morning.
-
-### [👉🏽 Click here to subscribe for FREE](https://www.realworldml.net/subscribe)
-
-### [**👉🏽 My live courses on Real World ML**](https://www.realworldml.net/courses)
-
-
